@@ -1,0 +1,42 @@
+builtins.py
+
+
+input()
+print()
+sorted()
+type()
+len()
+max()
+min()
+round()
+sum()
+
+
+{
+10.44
+round(10.44,1)
+o/p  10.4
+}
+
+
+
+
+
+class str:
+def capitalize()
+def upper()
+def casehold()
+def lower()
+def index("character")
+def isalpha()
+def isdigit()
+def isalnum()
+def count(character)
+def split()
+def startswith(character)
+def endswith(character)
+def replace("str" ,"replacecharacter")
+def strip("/n")    remove from l and r   
+def rstrip("/n") to remove from right
+def lstrip("/n") to remove from left
+ string_obj[start:end]    slicing

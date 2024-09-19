@@ -1,0 +1,5 @@
+input(message) read value from console
+print(message) print msg in console
+type(obg) return data type of specified obj
+len(obj)
+ramge(start,end,step) 
